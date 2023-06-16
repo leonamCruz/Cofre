@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cofre:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cofre_jar</output-path>
+    <root id="archive" name="Cofre.jar">
+      <element id="module-output" name="Cofre" />
+    </root>
+  </artifact>
+</component>
